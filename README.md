@@ -67,9 +67,9 @@ node main.js 3001
 ```
 
 
-**SCREENCAST LINK: **
+### SCREENCAST LINK:
 
-![screencast Recording](https://github.ncsu.edu/rrdhruve/HW/blob/master/HW3/screencast/DevOps_HW3.mov)
+https://youtu.be/TOgWV9DHDSA
 
 Tool used: QuickTime player
 ___
